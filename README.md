@@ -28,4 +28,4 @@
 
 Have fun!
 
-![Battle of tanks game](images/maze-game.png)
+![Maze game](images/maze-game.png)
